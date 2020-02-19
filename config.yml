@@ -1,0 +1,7 @@
+example:
+  world-alias: '&6Ê¾ÀýÊÀ½ç'
+  allow-enter-interval:
+    - '10:00-10:30'
+    - '00:00-24:00'
+  prohibited-items:
+    - "-1"

@@ -1,0 +1,8 @@
+name: WorldLimiter
+version: '1.0.0'
+main: cn.year9.WorldLimiter
+description: '世界限制'
+commands:
+  wd:
+    description: 世界限制插件控制命令
+    usage: /<command> [option]
