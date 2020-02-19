@@ -1,0 +1,9 @@
+workspace:
+  base: /srv/drone-demo
+  path: .
+
+pipeline:
+  build:
+    image: java:alpine]
+    commands:
+      - echo "Hello World"
